@@ -51,16 +51,3 @@ I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple
 </div>  
 
 <br/>  
-
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rikkimartin&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
