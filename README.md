@@ -64,19 +64,6 @@ I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkimartin&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
   
 
 <br/>  
