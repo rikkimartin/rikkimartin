@@ -19,7 +19,6 @@ I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple
 
 
 ## About Me  
-<table><tr><td valign="top" width="50%">
 
 -  🖥️ I’m currently working on a web application project  
   
@@ -28,16 +27,6 @@ I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple
   
 
 - ***✔️ Feel free to look at my repositories for all my projects!***  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/b2/e7/56/b2e756d9e02a17daf195ea4927494ecd.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
