@@ -26,7 +26,7 @@ I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple
 - 🌱 I’m currently learning JavaScript frameworks such as React.js and Express.js  
   
 
-- ***✔️ Feel free to look at my repositories for all my projects!***  
+- ✔️ Feel free to look at my repositories for all my projects!  
 
 <br/>  
 
