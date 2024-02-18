@@ -18,7 +18,7 @@ I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple
 <br/>  
 
 
-## Rapidfire  
+## About Me  
 <table><tr><td valign="top" width="50%">
 
 -  🖥️ I’m currently working on a web application project  
@@ -88,6 +88,3 @@ I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
