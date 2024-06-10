@@ -18,19 +18,6 @@ I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple
 <br/>  
 
 
-## About Me  
-
--  🖥️ I’m currently working on a web application project  
-  
-
-- 🌱 I’m currently learning JavaScript frameworks such as React.js and Express.js  
-  
-
-- ✔️ Feel free to look at my repositories for all my projects!  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
