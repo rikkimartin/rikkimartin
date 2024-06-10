@@ -11,8 +11,8 @@
 
 
 
-### Glad to see you here!  
-I'm a senior at UTA majoring in Software Engineering. I'm interested in multiple fields of technology such as real-time systems, mobile development, web development, and backend engineering. I love learning new technologies as well as creating efficient and robust software applications.  
+### Nice to meet you 
+I'm a graduate from UTA with a B.S. in Software Engineering. I love learning new technologies as well as creating efficient and robust software applications.  
   
 
 <br/>  
